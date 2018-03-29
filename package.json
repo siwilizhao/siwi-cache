@@ -3,8 +3,21 @@
   "version": "1.0.2",
   "description": "siwi-cache nodejs 文件缓存",
   "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  },
   "scripts": {
-    "test": "mocha test"
+    "mocha": "./node_modules/.bin/mocha -u bdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwilizhao/siwi-cache.git"
   },
   "keywords": [
     "siwi-cache",
@@ -15,20 +28,11 @@
   ],
   "author": "siwi",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^5.0.5"
+  "bugs": {
+    "url": "https://github.com/siwilizhao/siwi-cache/issues"
   },
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@gitee.com:siwi/siwi-cache.git"
-  },
+  "homepage": "https://github.com/siwilizhao/siwi-cache#readme",
   "engines": {
-    "node": "> 8.9"
+    "node": ">= 8.9"
   }
 }
