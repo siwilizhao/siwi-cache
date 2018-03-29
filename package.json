@@ -1,6 +1,6 @@
 {
   "name": "siwi-cache",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "siwi-cache nodejs 文件缓存",
   "main": "index.js",
   "directories": {
