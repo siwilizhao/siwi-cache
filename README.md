@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/siwilizhao/siwi-cache.svg?branch=master)](https://travis-ci.org/siwilizhao/siwi-cache)
 [![npm](https://img.shields.io/npm/v/siwi-cache.svg)](https://www.npmjs.com/package/siwi-cache)
 [![npm](https://img.shields.io/npm/dt/siwi-cache.svg)](https://www.npmjs.com/package/siwi-cache)
-[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-cache/lib/cache.js.svg)](https://github.com/siwilizhao/siwi-cache/lib/mixin.js)
+[![Github file size](https://img.shields.io/github/size/siwilizhao/siwi-cache/lib/cache.js.svg)](https://github.com/siwilizhao/siwi-cache/lib/cache.js)
 
 
 # siwi-cache
