@@ -6,7 +6,7 @@
 
 
 # siwi-cache
-
+## nodejs 文件缓存 提供set get del incr 等方法
 # install
 
 ## use npm 
