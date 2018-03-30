@@ -198,3 +198,9 @@ module.exports = new Example()
 
 > console 100
 
+# 缓存文件存储路径 与名称
+
+### 你可以实例化siwi-cache 的时候 通过传入 options['cache_path'] 自定义缓存文件存储地址 默认存储路径是：
+
+`${process.env.PWD}/cache`
+### 文件存储名称以key值md5命名
